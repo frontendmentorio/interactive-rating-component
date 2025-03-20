@@ -13,14 +13,14 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Orange: hsl(25, 97%, 53%)
+- Orange 500: hsl(25, 97%, 53%)
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Light Grey: hsl(217, 12%, 63%)
-- Dark Blue: hsl(213, 19%, 18%)
-- Very Dark Blue: hsl(216, 12%, 8%)
+- White: hsl(0, 100%, 100%)
+- Grey 500: hsl(217, 12%, 63%)
+- Grey 900: hsl(213, 19%, 18%)
+- Grey 950: hsl(216, 12%, 8%)
 
 ## Typography
 
